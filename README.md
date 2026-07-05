@@ -38,7 +38,7 @@ I'm a fresh graduate in Informatics building a career as an **AI/ML Engineer**, 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -111,12 +111,12 @@ I'm a fresh graduate in Informatics building a career as an **AI/ML Engineer**, 
 
 ---
 
-### 💼 Experience
+### Experience
 
 <table>
   <tr>
     <td width="100%" valign="top">
-  <h4>🤖 Technical Mentor — KodingNext</h4>
+  <h4>Technical Mentor — KodingNext</h4>
         <i>Feb 2026 – Jul 2026 (Ongoing)</i>
         <ul>
           <li>Deliver hands-on technical mentorship across <b>Python</b>, <b>AI/ML</b>, <b>Roblox Studio</b>, <b>2D/3D game development</b>, and <b>Scratch/CreatiCode</b>, translating each into structured, project-based learning modules.</li>
@@ -127,7 +127,7 @@ I'm a fresh graduate in Informatics building a career as an **AI/ML Engineer**, 
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h4>💻 Software Engineering & Database Lab Assistant — Universitas Siliwangi (Informatics Laboratory)</h4>
+      <h4>Software Engineering & Database Lab Assistant — Universitas Siliwangi (Informatics Laboratory)</h4>
       <i>Tasikmalaya, West Java · Oct 2024 – Mar 2025</i>
       <ul>
         <li>Provided technical mentorship for student projects in <b>database systems</b> and <b>software engineering</b>, including schema design, query optimization, and system architecture reviews.</li>
@@ -138,7 +138,7 @@ I'm a fresh graduate in Informatics building a career as an **AI/ML Engineer**, 
   </tr>
   <tr>
     <td width="100%" valign="top">
-            <h4>🔬 Research Assistant — AIS Research (Artificial Intelligence Research Siliwangi)</h4>
+            <h4>Research Assistant — AIS Research (Artificial Intelligence Research Siliwangi)</h4>
       <i>Tasikmalaya, West Java · Jul 2024 – Nov 2024</i>
       <ul>
         <li>Supported applied AI/ML research initiatives, contributing to model development and experimentation across multiple ML use cases.</li>
