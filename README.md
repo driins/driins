@@ -127,7 +127,7 @@ I'm a fresh graduate in Informatics building a career as an **AI/ML Engineer**, 
 <table>
   <tr>
     <td width="100%" valign="top">
-  <h4>Technical Mentor — KodingNext</h4>
+  <h4>Technical Mentor — KodingNext Tasikmalaya</h4>
         <i>Feb 2026 – Jul 2026 (Ongoing)</i>
         <ul>
           <li>Deliver hands-on technical mentorship across <b>Python</b>, <b>AI/ML</b>, <b>Roblox Studio</b>, <b>2D/3D game development</b>, and <b>Scratch/CreatiCode</b>, translating each into structured, project-based learning modules.</li>
