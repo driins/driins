@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Indri Windriasari 👋</h1>
 
-<h3 align="center">AI/ML Engineer | Researcher | Fresh Graduate — S1 Informatika</h3>
+<h3 align="center">AI/ML Engineer | Researcher | S1 Informatika</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/indriwindriasari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -111,7 +111,18 @@ I'm a fresh graduate in Informatics building a career as an **AI/ML Engineer**, 
 
 ---
 
-### Experience
+### 📄 Research & Publications
+
+- **Vision-enhanced classification and interpretability for solar panel defect renewable energy using modified visual geometry group 19 (VGG19-GradCAM)**
+  *Engineering Applications of Artificial Intelligence*, Volume 176, Part 2, 15 July 2026, Article 114808 — **Q1 Journal** [Link Publication](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010900)
+- **Relative Partial Self-Attention for Object Recognition in Smart Glasses Based on Contextual Adaptation**
+  Role: **Research Assistant** — data collection, Roboflow annotation, SOTA writing
+  Filed Patent — Application No. **EC002024192839**, Status: **Accepted** (2024)
+  🔗 [Profile](https://sinta.kemdiktisaintek.go.id/authors/profile/6025562/?view=iprs)
+
+---
+
+  ### Experience
 
 <table>
   <tr>
@@ -149,16 +160,6 @@ I'm a fresh graduate in Informatics building a career as an **AI/ML Engineer**, 
   </tr>
 </table>
 
----
-
-### 📄 Research & Publications
-
-- **Vision-enhanced classification and interpretability for solar panel defect renewable energy using modified visual geometry group 19 (VGG19-GradCAM)**
-  *Engineering Applications of Artificial Intelligence*, Volume 176, Part 2, 15 July 2026, Article 114808 — **Q1 Journal** [Link Publication](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010900)
-- **Relative Partial Self-Attention for Object Recognition in Smart Glasses Based on Contextual Adaptation**
-  Role: **Research Assistant** — data collection, Roboflow annotation, SOTA writing
-  Filed Patent — Application No. **EC002024192839**, Status: **Accepted** (2024)
-  🔗 [Profile](https://sinta.kemdiktisaintek.go.id/authors/profile/6025562/?view=iprs)
 
 ---
 
